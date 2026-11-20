@@ -27,7 +27,7 @@ flowchart TD
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/dashboard.PNG)
 
 **Key insights and features:**
 - Vessel stays and port calls.
@@ -38,7 +38,7 @@ flowchart TD
 
 ## Data Model
 
-![Data Model](screenshots/data-model.png)
+![Data Model](screenshots/data-model.PNG)
 
 ## Tools & Technologies
 
